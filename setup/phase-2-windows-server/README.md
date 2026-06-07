@@ -12,19 +12,19 @@ Deploy and configure a Windows Server 2022 VM as the primary victim/log source m
 
 **<ins>VM Configuration<ins>**
 
-RAM → 4GB
+- RAM → 4GB
 
-CPUS → 2
+- CPUS → 2
 
-Disk → 60GB(dynamic)
+- Disk → 60GB(dynamic)
 
-IP Address → 192.168.100.20
+- IP Address → 192.168.100.20
 
-Hostname → LAB-DC01
+- Hostname → LAB-DC01
 
-Domain → lab.local
+- Domain → lab.local
 
-Network → cyberlab(NAT)
+- Network → cyberlab(NAT)
 
 **<ins>Steps Taken<ins>**
 
