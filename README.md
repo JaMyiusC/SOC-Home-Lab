@@ -1,5 +1,5 @@
 # SOC-Home-Lab
-This repository showcases my cybersecurity home lab, featuring security investigations, threat detection exercises, incident response scenarios, and documentation of hands-on learning experiences in defensive security.
+This repository will showcase my cybersecurity home lab, featuring security investigations, threat detection exercises, incident response scenarios, and documentation of hands-on learning experiences in defensive security.
 
 The purpose of this repository is to demonstrate practical cybersecurity skills while documenting my learning process and hands-on experience with security monitoring, incident response, malware analysis, and threat detection.
 
