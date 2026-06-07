@@ -58,7 +58,28 @@ Enabled PowerShell Script Block Logging via registry.
 
 **<ins>Screenshots<ins>**
 
-(insert screenshots here)
+<img width="592" height="683" alt="image" src="https://github.com/user-attachments/assets/254cff9d-ed64-4e5b-9601-8da359648b33" />
+
+<img width="1030" height="778" alt="Screenshot 2026-06-06 142653" src="https://github.com/user-attachments/assets/c2c1b343-0155-4001-9b01-086edd08d54d" />
+
+<img width="1025" height="765" alt="image" src="https://github.com/user-attachments/assets/aa903d42-456b-4c8f-b267-6f4870817127" />
+
+<img width="1022" height="436" alt="image" src="https://github.com/user-attachments/assets/5190c390-5f3c-4317-a9de-d2355b711dd6" />
+
+<img width="1026" height="726" alt="image" src="https://github.com/user-attachments/assets/9d3bb96c-0005-4c7a-9244-bd46f43edd6d" />
+
+<img width="1026" height="772" alt="Screenshot 2026-06-06 153322" src="https://github.com/user-attachments/assets/09dfe714-dffd-4f12-86ce-84611c3eb6c1" />
+
+<img width="1026" height="728" alt="image" src="https://github.com/user-attachments/assets/0353e08a-193f-4932-8759-5c11cff8f539" />
+
+
+
+
+
+
+
+
+
 
 **<ins>Key Takeaways<ins>**
 
