@@ -6,17 +6,17 @@ Configure an isolated virtual network for all lab VMs to communicate securely wi
 
 **<ins>Tools Used<ins>**
 
-VirtualBox Version 7.2.8 r173730
+- VirtualBox Version 7.2.8 r173730
 
 **<ins>Network Configuration<ins>**
 
-Network Name → cyberlab
+- Network Name → cyberlab
 
-Subnet → 192.168.100.0/24
+- Subnet → 192.168.100.0/24
 
-Gateway → 192.168.100.1
+- Gateway → 192.168.100.1
 
-DHCP → Disabled (static IPs per VM)
+- DHCP → Disabled (static IPs per VM)
 
 **<ins>Steps Taken<ins>**
 
